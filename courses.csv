@@ -1,0 +1,4 @@
+id,canvas_id,root_account_id,account_id,enrollment_term_id,name,code,created_at,start_at,conclude_at,publicaly_visible,sis_source_id,workflow_state,wiki_id,syllabus_body
+1,1,1,3,1,Botany 101,DBOT-101,1/1/2020,8/31/2020,12/11/2020,1,DBOT-101-2020-F,available,,
+2,2,1,5,1,Introduction to Digital Marketing,MKTG-110,1/1/2020,8/31/2020,12/11/2020,1,MKTG-110-2020-F,available,,
+3,3,1,6,1,Risk Management  in the Age of Cyber Crime,RINS-330,1/1/2020,8/31/2020,12/11/2020,1/1/1900,RINS-330-2020-F,available,,  
