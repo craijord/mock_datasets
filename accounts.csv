@@ -1,0 +1,7 @@
+id	canvas_id	name	depth	workflow_state	parent_acocunt	parent_account_id	grandparent_account	grandparent_account_id	root_account	subaccount1	subaccount1_id	subaccount2	subaccount2_id	subaccount3	subaccount3_id	sis_source_id
+1	1	Sample U	1	active					1	1	Sample U					SMPL
+2	2	College of Letters and Sciences	2	active	Sample U	1			1	1	Sample U	2	College of Letters and Sciences			CL&S
+3	3	Department of Botany	3	active	College of Letters and Sciences	2	Sample U	1	1	1	Sample U	2	College of Letters and Sciences	3	Department of Botany	DBOT
+4	4	School of Business	2	active	Sample U	1			1	1	Sample U	4	School of Business			SBUS
+5	5	Marketing	3	active	School of Business	4	Sample U	1	1	1	Sample U	4	School of Business	5	Marketing	MKTG
+6	6	Risk and Insurance	3	active	School of Business	4	Sample U	1	1	1	Sample U	4	School of Business	6	Risk and Insurance	RINS
